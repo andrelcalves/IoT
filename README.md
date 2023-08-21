@@ -1,6 +1,8 @@
 # IoT
 My IoT notes and initiatives 
 
+## OPC-UA Simulator Server
+- [Prosyopc - Test your OPC UA clients, connections and information models.](https://prosysopc.com/products/opc-ua-simulation-server/)
 
 ## Digital Twins Solutions
 - [Aveva Asset Information Management](https://www.aveva.com/en/products/asset-information-management/)
