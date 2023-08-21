@@ -1,6 +1,9 @@
 # IoT
 My IoT notes and initiatives 
 
+## Libraries
+- [Open Source C++ and Python OPC-UA Libraries](https://github.com/FreeOpcUa)
+
 ## OPC-UA Simulator Server
 - [Prosyopc - Test your OPC UA clients, connections and information models.](https://prosysopc.com/products/opc-ua-simulation-server/)
 
